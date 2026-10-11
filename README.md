@@ -49,7 +49,7 @@ to create a more complete application.
 
 <hr>
 
-<h2>🏗️ System Architecture</h2>
+<h2> System Architecture</h2>
 
 <p>
 The application is structured around two primary components:
